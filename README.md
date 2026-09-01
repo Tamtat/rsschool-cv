@@ -1,4 +1,4 @@
 # RSSchool CV Project 
 
 You can view my live CV here:
-[https://gitHub.io](https://gitHub.io)
+[https://github.io](https://github.io)
